@@ -9,6 +9,8 @@ const (
 	CPP Language = iota
 )
 
+// gay as fuckkkkkkkkkkkkkkk
+
 func LanguageAsString(language Language) string {
 	switch language {
 	case C:
